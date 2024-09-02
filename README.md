@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">An IT-student from Russia at 21 school</h3>
+<h3 align="center">A junior go-developer</h3>
 
 - 🔭 I’m currently working on [C++](https://github.com/DanPol2000/modules-of-pluses)
 
-- 🌱 I’m currently learning **how to work and use algorithms in C++**
-
-- 👯 I’m looking to collaborate on **on cub3d(42circus)**
+- 🌱 I’m currently learning **how to work and use algorithms in Go**
 
 - 📫 How to reach me **dan.polyakov.95@mail.ru**
 
