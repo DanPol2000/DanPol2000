@@ -2,7 +2,8 @@
 <h3 align="center">A junior go-developer</h3>
 
 - 🌱 I’m currently learning **how to work and use algorithms in Go**
-
+- 🖥️ studied at School 21 from Sberbank
+- 🟢 worked in the department of SberDevices, where was a go backend developer
 - 📫 How to reach me **dan.polyakov.95@mail.ru**
 
 <h3 align="left">Languages and Tools:</h3>
