@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A junior go-developer</h3>
 
-- 🔭 I’m currently working on [C++](https://github.com/DanPol2000/modules-of-pluses)
-
 - 🌱 I’m currently learning **how to work and use algorithms in Go**
 
 - 📫 How to reach me **dan.polyakov.95@mail.ru**
